@@ -9,56 +9,70 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**St. Petersburg State University**, Saint Petersburg, Russia  
+M.Sc. in Computer Science, expected July 2026  
+Coursework: Scientific Machine Learning Applications in Materials Science  
+Advisor: Associate Prof. Tatiana Andreeva
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Yan’an University**, Shaanxi, China  
+B.Sc. in Physics, July 2023  
+Thesis topic: Electronic structure and optical properties of CdS/BiOI heterojunction improved by oxygen vacancies  
+Advisor: Prof. Fuchun Zhang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Research Assistant**  
+42nd Research Institute of the Fourth Research Institute of China Aerospace Science and Technology Corporation  
+November 2023 – June 2024
+
+**Research Assistant**  
+Future Lab, Tsinghua University  
+April 2023 – November 2023
+
+## Skills
+
+### Computational Materials Science
+
+- Density functional theory calculations using VASP and Materials Studio
+- Electronic structure calculations: band structures, density of states, charge density analysis
+- Mechanical property calculations: Young's modulus, Poisson's ratio, hardness
+- HOMO, LUMO, Fukui function, COOP and COHP analysis
+
+### Materials Synthesis
+
+- Powder-form nanomaterial synthesis
+- Visible-light photocatalyst synthesis
+- Hydrothermal, solvothermal, and microwave synthesis methods
+
+### Characterization and Data Analysis
+
+- X-ray diffraction
+- X-ray photoelectron spectroscopy
+- UV-visible spectroscopy
+- Photoluminescence spectroscopy
+- Raman spectroscopy
+- BET analysis
+- Avantage
+- ZView
+- Cinema 4D
+
+## Publications
+
+For a complete list of publications, please see the Publications page.
+
+## Awards
+
+- China Scholarship Council scholarship for professional training programs in Russia, Ukraine, and Belarus, 2025
+- National Innovation and Entrepreneurship Training Program for College Students, 2021
+- Research highlight on EurekAlert for work on graphitic carbon nitride and bismuth oxyhalide hybrid photocatalysts
+
+## Conference Presentations
+
+- The 16th Annual National Student Innovation Conference, Hainan, China, 2023  
+  Presentation: Preparation of g-C3N4/Bi4O5Br2 heterojunction composites and photocatalysis of environmental pollution
+
+## References
+
+Available upon request.

@@ -1,152 +1,181 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yang Liu",
+    "email": "yaangl0615@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yaangl0615-ux.github.io",
+    "summary": "Master's student in Computer Science at St. Petersburg State University. Research interests include computational materials science, density functional theory, materials informatics, interpretable machine learning, and AI for Science.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Saint Petersburg",
+      "countryCode": "RU",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=F3pAns8AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0002-3998-5404",
+        "url": "https://orcid.org/0000-0002-3998-5404"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yaangl0615-ux",
+        "url": "https://github.com/yaangl0615-ux"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Yang Liu",
+        "url": "https://www.researchgate.net/profile/Yang-Liu-1179"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "42nd Research Institute of the Fourth Research Institute of China Aerospace Science and Technology Corporation (CASC)",
+      "position": "Research Assistant",
+      "startDate": "2023-11",
+      "endDate": "2024-06",
+      "summary": ""
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "Future Lab, Tsinghua University",
+      "position": "Research Assistant",
+      "startDate": "2023-04",
+      "endDate": "2023-11",
+      "summary": ""
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "St. Petersburg State University",
+      "area": "M.Sc. in Computer Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2026-07",
+      "gpa": null,
+      "courses": [
+        "Scientific Machine Learning Applications in Materials Science"
+      ]
+    },
+    {
+      "institution": "Yan'an University",
+      "area": "B.Sc. in Physics",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2023-07",
+      "gpa": "80/100",
+      "courses": [
+        "Electronic structure and optical properties of CdS/BiOI heterojunction improved by oxygen vacancies"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computational materials science",
+      "keywords": [
+        "DFT",
+        "VASP",
+        "Materials Studio",
+        "Band structures",
+        "Density of states",
+        "Mechanical properties",
+        "HOMO/LUMO",
+        "Fukui function",
+        "COOP/COHP"
+      ]
+    },
+    {
+      "name": "Materials informatics and AI",
+      "keywords": [
+        "Interpretable machine learning",
+        "Causal inference",
+        "Causal discovery",
+        "Scientific machine learning",
+        "Python data analysis"
+      ]
+    },
+    {
+      "name": "Materials synthesis and characterization",
+      "keywords": [
+        "Hydrothermal synthesis",
+        "Solvothermal synthesis",
+        "Microwave synthesis",
+        "XRD",
+        "XPS",
+        "UV-visible spectroscopy",
+        "PL",
+        "Raman",
+        "BET",
+        "Electrochemical impedance spectroscopy"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research interests",
+      "keywords": [
+        "Computational materials science",
+        "AI for Science",
+        "Photocatalysis",
+        "Two-dimensional materials",
+        "Electromagnetic wave absorption materials"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Electronic structure and optical properties of CdS/BiOI heterojunction improved by oxygen vacancies",
+      "publisher": "Journal of Alloys and Compounds",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.1016/j.jallcom.2023.170235",
+      "summary": "First-author publication."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Calculation of Mechanical Properties, Electronic Structure and Optical Properties of CsPbX3 (X = F, Cl, Br, I)",
+      "publisher": "Molecules",
+      "releaseDate": "2023",
+      "website": "https://doi.org/10.3390/molecules28227643",
+      "summary": "First-author publication."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Enhanced pollutant photodegradation activity of graphitic carbon nitride via bismuth oxyhalide graphene hybridization and the mechanism study",
+      "publisher": "Industrial Chemistry & Materials",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.1039/D4IM00105B",
+      "summary": "Co-first-author publication."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Toward Causal Inference in Materials Informatics: Methods, Applications and Opportunities",
+      "publisher": "Computational Materials Science, with editor",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Ongoing manuscript."
+    },
+    {
+      "name": "Causal Discovery and Interpretable Machine Learning for Dopant-Induced Magnetism in 2D Materials",
+      "publisher": "Nanoscale Horizons, under revision",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Ongoing manuscript."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Preparation of g-C3N4/Bi4O5Br2 heterojunction composites and photocatalysis of environmental pollution",
+      "event": "The 16th Annual National Student Innovation Conference",
+      "date": "2023",
+      "location": "Hainan, China",
+      "description": "Presentation and report."
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }

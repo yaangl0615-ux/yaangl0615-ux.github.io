@@ -24,7 +24,7 @@ Advisor: Prof. Fuchun Zhang
 ## Research Experience
 
 **Research Assistant**  
-42nd Research Institute of the Fourth Research Institute of China Aerospace Science and Technology Corporation  
+42nd Research Institute of the Fourth Research Institute of China Aerospace Science and Technology Corporation (CASC)  
 November 2023 – June 2024
 
 **Research Assistant**  
@@ -58,9 +58,16 @@ April 2023 – November 2023
 - ZView
 - Cinema 4D
 
+### AI and Scientific Computing
+
+- Materials informatics and interpretable machine learning
+- Causal inference and causal discovery for materials science
+- Scientific machine learning applications in materials science
+- Python-based data analysis and visualization
+
 ## Publications
 
-For a complete list of publications, please see the Publications page.
+Selected publication record: 15 journal articles, 1 invited book chapter, and ongoing manuscripts in causal inference and interpretable machine learning for materials science. For the complete list, please see the Publications page.
 
 ## Awards
 

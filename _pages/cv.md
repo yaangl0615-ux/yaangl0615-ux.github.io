@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 
 **Saint Petersburg State University**, Saint Petersburg, Russia  
-Master's studies, July 2026  
+Master's degree in Applied Mathematics and Informatics, July 2026  
 Research topic: Machine learning in applications of two-dimensional materials modeling  
 Advisor: Associate Prof. Tatiana Andreeva
 

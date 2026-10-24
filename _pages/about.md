@@ -9,7 +9,7 @@ redirect_from:
 
 I am **Yang Liu**. My research focuses on computational materials science, materials informatics, and functional nanomaterials. I combine density functional theory (DFT), electronic-structure analysis, and machine learning to understand and design materials for photocatalysis, gas sensing, and electromagnetic wave absorption.
 
-My master's research at Saint Petersburg State University focuses on machine learning in two-dimensional materials modeling, supervised by Associate Prof. Tatiana Andreeva. I received my Bachelor of Physics from Yan’an University in July 2023, under the supervision of Prof. Fuchun Zhang.
+My master's research in Applied Mathematics and Informatics at Saint Petersburg State University focuses on machine learning in two-dimensional materials modeling, supervised by Associate Prof. Tatiana Andreeva. I received my Bachelor of Physics from Yan’an University in July 2023, under the supervision of Prof. Fuchun Zhang.
 
 ## Research Interests
 
@@ -39,7 +39,7 @@ Source: [Google Scholar](https://scholar.google.com/citations?user=F3pAns8AAAAJ&
 
 ## Education and Experience
 
-- **Master's studies**, Saint Petersburg State University, Russia — July 2026
+- **Master's degree in Applied Mathematics and Informatics**, Saint Petersburg State University, Russia — July 2026
 - **Bachelor of Physics**, Yan’an University, China — July 2023
 - **Research Assistant**, CASC, 42nd Research Institute — November 2023–June 2024
 - **Research Assistant**, Future Lab, Tsinghua University — April–November 2023
